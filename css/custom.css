@@ -1,0 +1,33 @@
+.custom-b-newsletter{
+    background-color: #E65239;
+}
+.c-btn-color{
+    color:oldlace;
+    font-weight: bolder;
+    background-color: #EA952A;
+}
+
+.price-color{
+    color: black;
+    font-weight: 600;
+}
+.r-image{
+    background-color:#F6F6F6;
+    border-radius:1rem;
+}
+.text-clr-tomato{
+    color:orangered;
+    font-size: 38px;
+}
+
+h1, h2, h3, h4, h5, h6, small {
+    font-family: 'Goldman', cursive;
+    letter-spacing: 0.5px;
+}
+small{
+    letter-spacing: 1px;
+}
+ul li {
+    font-family: 'Teko', sans-serif;
+    font-size: 22px;
+}
